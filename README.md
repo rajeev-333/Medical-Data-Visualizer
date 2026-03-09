@@ -48,6 +48,7 @@ python main.py
 ├── test_module.py              # Unit tests (do not modify)
 ├── examples/
 │   └── Figure_1.png            # Reference chart
+|   └── Figure_2.png            # Reference chart
 ├── catplot.png                 # Generated categorical plot
 ├── heatmap.png                 # Generated correlation heatmap
 └── README.md
